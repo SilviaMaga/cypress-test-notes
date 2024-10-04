@@ -1,0 +1,19 @@
+{
+  "name": "cypress-note-app",
+  "version": "1.0.0",
+  "description": "Projeto de teste de frontend e das APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "frontend",
+    "api"
+  ],
+  "author": "Silvia Magalhães",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.15.0"
+  }
+}
